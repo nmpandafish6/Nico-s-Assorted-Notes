@@ -1,0 +1,14 @@
+Sockets
+I2C
+Electrical
+Gui
+C++ Libraries (Arduino)
+Regex
+Enums
+Exceptions
+Abstract Functions / Classes
+Interfaces
+Calculus
+Vision
+PHP
+
