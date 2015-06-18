@@ -1,5 +1,6 @@
-Sockets
-I2C
+Note : Once a suggestion has been read and completed, the suggestion
+	will be removed and placed in the changelog instead.
+
 Electrical
 Gui
 C++ Libraries (Arduino)
@@ -11,4 +12,5 @@ Interfaces
 Calculus
 Vision
 PHP
+Field Centric (Alpha, Beta, Omega)
 
