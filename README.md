@@ -1,7 +1,7 @@
 # Nico's Box of Goodies
 
 Note : The name was thought of by wsh32. Check out his github ( https://github.com/wsh32 )
-
+```
                ▒▒                   (_)                         
               ▓▓▓▒▒                    _                        
              ▓▓▓▓▓▓▒▒              _  (_)                       
@@ -22,6 +22,8 @@ Note : The name was thought of by wsh32. Check out his github ( https://github.c
  | |\  | | | | | | |_) | (_| | | | | (_| | (_| | | | \__ \ | | |
  |_| \_|_| |_| |_| .__/ \__,_|_| |_|\__,_|\__,_|_| |_|___/_| |_|
                  | |                                            
-                 |_|                                            
+                 |_|                        
+              
+```
 
 
